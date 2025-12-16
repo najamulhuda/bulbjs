@@ -13,6 +13,11 @@ button {
     display: inline-block;
     cursor: pointer;
 }
+
+body {
+    display: flex;
+    justify-content: center;
+}
 .btn1{
     width: 10%;
     margin: auto;
@@ -36,4 +41,5 @@ button:hover{
 body{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     background-color:bisque;
+
 }
